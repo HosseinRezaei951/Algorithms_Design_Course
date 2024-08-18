@@ -21,9 +21,3 @@ The `Special` directory contains additional programs for special topics and adva
 - **Closest_Pair.py**: Python implementation of an algorithm to find the closest pair of points among a set of points. This algorithm is often used in computational geometry and has various applications.
 
 - **Knights_Shortest_Path.cpp**: C++ implementation of an algorithm to find the shortest path for a knight on a chessboard from a start position to a target position. This problem can be solved using graph traversal techniques such as Breadth-First Search (BFS).
-
-## How to Use
-
-1. **Clone the Repository**: To access the files locally, clone the repository using:
-   ```bash
-   git clone https://github.com/your-username/Algorithms_Design_Course.git
